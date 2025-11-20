@@ -144,4 +144,4 @@ This project is created as a final project assignment.
 
 ## Author
 
-Khushhali Team
+Sarmad Rehan
